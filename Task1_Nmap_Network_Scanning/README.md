@@ -2,7 +2,7 @@
 
 **Internship:** OIBSIP – Security Analyst Internship  
 **Task Level:** Beginner  
-**Author:** Parvathavardhini C S 
+**Author:** C S Parvathavardhini 
 
 
 ## Objective
