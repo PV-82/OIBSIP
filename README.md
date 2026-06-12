@@ -2,7 +2,7 @@
 
 **Internship:** OIBSIP – Security Analyst Internship  
 **Task Level:** Beginner  
-**Author:** [Your Name]  
+**Author:** C S Parvathavardhini 
 **Student ID:** x24334715
 
 ## Objective
