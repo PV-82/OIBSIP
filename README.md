@@ -3,7 +3,7 @@
 **Internship:** OIBSIP – Security Analyst Internship  
 **Task Level:** Beginner  
 **Author:** C S Parvathavardhini 
-**Student ID:** x24334715
+
 
 ## Objective
 Set up a basic firewall using UFW on a Linux system, configure it to allow SSH and deny HTTP traffic.
