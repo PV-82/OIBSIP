@@ -2,8 +2,8 @@
 
 **Internship:** OIBSIP – Security Analyst Internship
 **Task Level:** Intermediate
-**Author:** [Your Name]
-**Student ID:** x24334715
+**Author:** Parvathavardhini C S
+
 
 ## Objective
 Capture and analyse live network traffic using tshark (Wireshark CLI), apply filters to isolate specific protocols, and document findings with security observations.
