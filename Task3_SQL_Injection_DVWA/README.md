@@ -2,8 +2,8 @@
 
 **Internship:** OIBSIP – Security Analyst Internship  
 **Task Level:** Beginner  
-**Author:** [Your Name]  
-**Student ID:** x24334715
+**Author:** C S Parvathavardhini 
+
 
 ## Objective
 Demonstrate an SQL Injection vulnerability on DVWA set to Low security, extract user data and database information.
