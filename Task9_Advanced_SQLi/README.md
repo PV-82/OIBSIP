@@ -2,8 +2,8 @@
 
 **Internship:** OIBSIP – Security Analyst Internship
 **Task Level:** Advanced
-**Author:** [Your Name]
-**Student ID:** x24334715
+**Author:** C S Parvathavardhini
+
 
 ## Objective
 Extend Task 3's basic SQL injection into a comprehensive exploitation exercise — enumerating database tables, extracting schema information, dumping credentials, and producing a detailed vulnerability report with developer-facing remediation.
