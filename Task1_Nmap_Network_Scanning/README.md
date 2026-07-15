@@ -51,3 +51,6 @@ sudo nmap -sS -sV -O 127.0.0.1 -oN nmap_scan_results.txt
 ## References
 - https://nmap.org/docs.html
 - NIST SP 800-115 Technical Guide to Information Security Testing
+
+## Demo Video
+[Watch Demo](https://www.loom.com/share/82167456da054b7183002dc0cd497f09)

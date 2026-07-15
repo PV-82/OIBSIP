@@ -73,3 +73,6 @@ Since `'1'='1'` is always true, all rows are returned.
 - OWASP Top 10 – A03: Injection
 - https://owasp.org/www-community/attacks/SQL_Injection
 - https://portswigger.net/web-security/sql-injection
+
+## Demo Video
+[Watch Demo](https://www.loom.com/share/df25dd80c025470d8f8ac9dcbcad831a)

@@ -59,3 +59,6 @@ sudo ufw status verbose
 ## References
 - https://help.ubuntu.com/community/UFW
 - NIST SP 800-41 Guidelines on Firewalls and Firewall Policy
+
+## Demo Video
+[Watch Demo](https://www.loom.com/share/6981c3c05f5f4a0286a66f53a4489fc9)
